@@ -4,7 +4,7 @@
   "description": "test",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha --no-opts option"
   },
   "repository": {
     "type": "git",
