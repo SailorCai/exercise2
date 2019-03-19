@@ -1,2 +1,2 @@
 language: nodejs
-script: 'npm install && mocha'
+script: 'npm i -g mocha && npm install && mocha'
